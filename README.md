@@ -1,4 +1,5 @@
 # blog_app
+# version 3.13.6 and dart version 3.1.3
 
 A new Flutter project.
 
